@@ -61,9 +61,6 @@ I'm a Java Spring Developer with over 6 years of experience working on full-stac
 
 ## 📊 Areas I'm Developing
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakshresthaa&theme=radical&layout=compact" alt="Most Used Languages" />
-</div>
 
 <div align="center">
   
