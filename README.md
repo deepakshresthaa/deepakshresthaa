@@ -111,10 +111,7 @@ I'm passionate about improving my software development skills and learning from 
 
 </div>
 
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/deepakshresthaa/deepakshresthaa/blob/output/github-contribution-grid-snake.svg" alt="snake eating contribution graph">
-</div>
+
 
 ---
 
