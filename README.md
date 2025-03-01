@@ -26,7 +26,7 @@ I'm a Java Spring Developer with over 6 years of experience working on full-stac
 <table>
   <tr>
     <td>
-      <img align="left" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-bd9b40eef658.png" width="36" height="36" alt="Java" />
+      <img align="left" src="https://abrudz.github.io/logos/Java.svg" width="36" height="36" alt="Java" />
     </td>
     <td>Contributing to microservices for cargo operations at American Airlines</td>
   </tr>
@@ -38,7 +38,7 @@ I'm a Java Spring Developer with over 6 years of experience working on full-stac
   </tr>
   <tr>
     <td>
-      <img align="left" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="36" height="36" alt="Kafka" />
+      <img align="left" src="https://github.com/detain/svg-logos/blob/master/svg/k/kafka.svg" width="36" height="36" alt="Kafka" />
     </td>
     <td>Understanding real-time data processing with Kafka</td>
   </tr>
