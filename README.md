@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a Java Spring Developer with over 6 years of experience working on full-stack applications. Currently working at American Airlines, where I'm growing my skills in cloud-native applications and microservices.
+I'm a Java Spring Developer with experience working on full-stack applications. Currently working at American Airlines, where I'm growing my skills in cloud-native applications and microservices.
 
 <details>
   <summary><b>🔍 Click to learn more about me</b></summary>
